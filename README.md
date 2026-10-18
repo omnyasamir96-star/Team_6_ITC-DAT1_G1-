@@ -16,7 +16,7 @@ This repository serves as a showcase for end-to-end Data Analytics & Business In
 * **Core Tech Stack:** `SQL Server` | `Power Query` | `Power BI` | `DAX`
 * **Interactive Dashboard Preview:**
 
-![Dashboard Preview](Mini%20project%20G6/dashboard_preview.png.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 #### 🔑 Key Project Highlights
 - **Engineered Advanced DAX Metrics:** Developed custom measures including `Total Revenue`, `AOV`, and a dynamic `Peak Hour` algorithm formatted (`HH:00`).
